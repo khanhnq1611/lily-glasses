@@ -1,0 +1,11 @@
+{
+  "name": "Kính mắt Lily - Virtual Try-On",
+  "description": "Ứng dụng thử kính thực tế ảo chính thức của Kính mắt Lily, giúp bạn tìm được gọng kính phù hợp nhất với khuôn mặt.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Computer Vision",
+    "Real-time Tracking"
+  ]
+}
